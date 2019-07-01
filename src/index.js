@@ -18,4 +18,3 @@ contactNav.addEventListener('click', function showContact() {
     contact();
 });
 
-
